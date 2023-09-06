@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/farm-products/static/js/main.e85c309d.chunk.js",
+    "main.js.map": "/farm-products/static/js/main.e85c309d.chunk.js.map",
+    "runtime-main.js": "/farm-products/static/js/runtime-main.60010c2b.js",
+    "runtime-main.js.map": "/farm-products/static/js/runtime-main.60010c2b.js.map",
+    "static/css/2.36c4cdb8.chunk.css": "/farm-products/static/css/2.36c4cdb8.chunk.css",
+    "static/js/2.62cbe167.chunk.js": "/farm-products/static/js/2.62cbe167.chunk.js",
+    "static/js/2.62cbe167.chunk.js.map": "/farm-products/static/js/2.62cbe167.chunk.js.map",
+    "index.html": "/farm-products/index.html",
+    "static/css/2.36c4cdb8.chunk.css.map": "/farm-products/static/css/2.36c4cdb8.chunk.css.map",
+    "static/js/2.62cbe167.chunk.js.LICENSE.txt": "/farm-products/static/js/2.62cbe167.chunk.js.LICENSE.txt",
+    "static/media/checked-tick.f4e65623.svg": "/farm-products/static/media/checked-tick.f4e65623.svg",
+    "static/media/farmer.4a2436b5.svg": "/farm-products/static/media/farmer.4a2436b5.svg",
+    "static/media/logo.6343f88e.svg": "/farm-products/static/media/logo.6343f88e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60010c2b.js",
+    "static/css/2.36c4cdb8.chunk.css",
+    "static/js/2.62cbe167.chunk.js",
+    "static/js/main.e85c309d.chunk.js"
+  ]
+}
