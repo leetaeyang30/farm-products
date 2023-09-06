@@ -12,7 +12,7 @@ export default function App() {
   return (
     <>
       <GlobalStyles />
-      <BrowserRouter>
+      <BrowserRouter basename="farm-products">
         <ScrollToTop />
         <Routes>
           <Route path={AppRoutes.MAIN} element={<PageWrapper />}>

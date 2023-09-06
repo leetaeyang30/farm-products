@@ -16,7 +16,7 @@ import Button from "/src/components/ui/button/button";
 import Product from "/src/components/ui/product/product";
 
 import { SwiperSlide } from "swiper/react";
-import SwiperCore, { Pagination, Mousewheel, Scrollbar } from "swiper/core";
+import SwiperCore, { Pagination, Mousewheel, Scrollbar } from "swiper";
 import "swiper/swiper-bundle.min.css";
 SwiperCore.use([Mousewheel, Pagination, Scrollbar]);
 
